@@ -97,10 +97,6 @@ h1 {
   left: 350px;
 }
 
-.footer{
-  position: absolute;
-  top: 1000px;
-}
 
 .slidershow{
   width: 500px;
@@ -167,4 +163,13 @@ input[name="r"]{
 }
 #r5:checked ~ .s1{
   margin-left: -80%;
+}
+
+
+.footer{
+position: absolute;
+top: 1000px;
+background: rgb(44, 44, 44);
+color: white;
+width: 100%;
 }
